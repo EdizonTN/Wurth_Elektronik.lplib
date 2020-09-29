@@ -1,0 +1,10 @@
+(librepcb_library 12b34631-a899-4877-93e6-fb5dc4075eaf
+ (name "Würth Elektronik")
+ (description "This is a unnoficial testing LibrePCB library. \nWurth connectors.")
+ (keywords "")
+ (author "EdizonTN")
+ (version "0.1")
+ (created 2020-09-29T22:03:55Z)
+ (deprecated false)
+ (url "https://github.com/EdizonTN/Wurth_Elektronik.lplib.git")
+)
