@@ -16,6 +16,7 @@ see [wiki](../../wiki/)
 https://github.com/EdizonTN/Wurth_Elektronik.lplib/archive/refs/heads/master.zip
 
 
+
 ## License
 
-No license set.
+Creative Commons (CC0-1.0). For the license text, see [LICENSE](LICENSE).
